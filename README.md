@@ -1,7 +1,14 @@
 <img src="4D4A9597-5DB1-468B-AE52-02CB60B64A8D.jpg" alt="Profile Picture" width="300" />
-<h1>Développeur web</h1>
 
-## Qui suis-je ?
+###
+
+<h1 align="center">Hello and welcome to my GitHub profile! 👋🏽</h1>
+
+###
+
+<h3 align="left">🦸🏽‍♂️ Qui suis-je ?</h3>
+
+###
 
 Bonjour et bienvenue sur mon profil GitHub ! Je m'appelle Christophe Mostefaoui alias Krismos. Je suis actuellement en quête de poursuivre ma passion pour la technologie en tant que développeur Web et je suis ravi de partager mes progrès avec vous.
 
