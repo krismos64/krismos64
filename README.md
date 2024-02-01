@@ -1,6 +1,6 @@
-<img src="4D4A9597-5DB1-468B-AE52-02CB60B64A8D.jpg" alt="Profile Picture" width="300" />
+<img width="400" src="4D4A9597-5DB1-468B-AE52-02CB60B64A8D.jpg"/>
 
-###
+Add me on   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophemostefaoui/)
 
 <h1 align="center">Hello and welcome to my GitHub profile! 👋🏽</h1>
 
