@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="IMG_8598.jpg">
+  <img width="400" src="IMG_8598.jpeg">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophemostefaoui/)
