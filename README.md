@@ -12,14 +12,14 @@
 
 ###
 
-Bonjour et bienvenue sur mon profil GitHub ! Je m'appelle Christophe Mostefaoui alias Krismos. Je suis actuellement en quête de poursuivre ma passion pour la technologie en tant que développeur Web et je suis ravi de partager mes progrès avec vous.
+Bonjour et bienvenue sur mon profil GitHub ! Je m'appelle Christophe Mostefaoui alias Krismos. Je suis actuellement en quête de poursuivre ma passion pour la technologie en tant que développeur Web et je suis ravi de partager mes progrès avec vous. Si vous regardez de plus prêt, la montagne ci-dessus représente le long parcours à accomplir !
 
 Après avoir travaillé comme vendeur multimédia, j'ai réalisé que ma véritable passion réside dans le monde de la tech. J'ai toujours été attiré par l'idée de créer quelque chose à partir de zéro et de le voir prendre vie, et c'est ce qui m'a poussé à me lancer dans cette nouvelle aventure.
 
 Dans le cadre de ma formation à l'école Studi, j'ai déjà réalisé des projets passionnants que je suis fier de partager avec vous.
 
 ## <h3 align="left"> Regarder vers l'avant </h3>
-J'ai obtenu mon titre de développeur Web et web mobile Fullstack, avec un focus sur PHP, Symfony. J'ai hâte d'appliquer mon expérience et mes connaissances à ma future carrière dans la technologie.
+J'ai obtenu mon titre de développeur Web et web mobile Fullstack, avec un focus sur PHP, Symfony. J'ai hâte d'appliquer mon expérience et mes connaissances à ma future carrière dans la technologie. Je continue à réaliser des projets perso afin de monter en compétences de manière autodidacte.
 
 Au fur et à mesure que j'avance, je recherche activement un apprentissage dans le cadre d'un contrat professionnel à partir d'octobre 2024. Je prépare le diplome de Concepteur développeur d'applications avec la Fabrique Numérique Paloise et je recherche donc une entreprise pour y travailler en alternance (3semaines en entreprise et une semaine en formation d'octobre 2024 à mars 2026). Je suis ravi de continuer à apprendre et à grandir en tant que développeur, et j'ai hâte de voir où ce voyage me mènera.
 
