@@ -26,12 +26,6 @@ Mon objectif : **transformer les idées en solutions concrètes**, avec un code 
 
 ---
 
-## 📂 Quelques projets récents
-- **SmartPlanningAI** – SaaS de gestion de plannings avec IA intégrée et paiement en ligne
-- **Kocinaspeed** – Site de recettes rapide en Symfony avec espace administrateur
-- **LivreStaka** – Plateforme complète de consultation et facturation en ligne
-
----
 
 💡 Toujours curieux, j’expérimente régulièrement de nouvelles technologies pour rester à jour et apporter des solutions innovantes à mes clients.
 
