@@ -1,28 +1,41 @@
 <div align="center">
-  <img width="400" src="montagne.jpeg">
+  <img width="400" src="montagne.jpeg" alt="Montagne - Symbole de progression et de réussite">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophemostefaoui/)
 
-<h1 align="center">Hello et bienvenue sur mon profil GitHub ! 👋🏽</h1>
+<h1 align="center">Bienvenue sur mon profil GitHub 👋🏽</h1>
 
-###
+## 🦸🏽‍♂️ Qui suis-je ?
 
-<h3 align="left">🦸🏽‍♂️ Qui suis-je ?</h3>
+Développeur **freelance Fullstack** passionné, j’accorde une importance particulière à la **bonne gestion des projets** pour garantir des livraisons fiables, performantes et adaptées aux besoins réels de mes clients.
 
-###
+Ma **stack préférée** est **MERN** (MongoDB, Express, React, Node.js) pour sa flexibilité, sa rapidité de développement et sa capacité à créer des applications web modernes et évolutives.  
+Je maîtrise également **PHP/Symfony**, ce qui me permet d’intervenir sur des environnements variés.
 
-Bonjour et bienvenue sur mon profil GitHub ! Je m'appelle Christophe Mostefaoui alias Krismos. Je suis actuellement en quête de poursuivre ma passion pour la technologie en tant que développeur Web et je suis ravi de partager mes progrès avec vous. Si vous regardez de plus prêt, la montagne ci-dessus représente le long parcours à accomplir !
+Mon objectif : **transformer les idées en solutions concrètes**, avec un code propre, maintenable et une communication claire tout au long du projet.
 
-Après avoir travaillé comme vendeur multimédia, j'ai réalisé que ma véritable passion réside dans le monde de la tech. J'ai toujours été attiré par l'idée de créer quelque chose à partir de zéro et de le voir prendre vie, et c'est ce qui m'a poussé à me lancer dans cette nouvelle aventure.
+---
 
-Dans le cadre de mes formations, j'ai déjà réalisé des projets passionnants que je suis fier de partager avec vous.
+## 📌 Mes priorités dans chaque projet :
+- ✅ **Analyse et planification** (cadrage clair, cahier des charges précis, backlog structuré)
+- ✅ **Développement moderne** (React, Node.js, APIs REST, bases NoSQL et SQL)
+- ✅ **Gestion agile** (itérations courtes, feedback régulier)
+- ✅ **Qualité et optimisation** (performances, accessibilité, SEO)
+- ✅ **Déploiement et maintenance** (Docker, CI/CD, hébergement cloud)
 
-## <h3 align="left"> Regarder vers l'avant </h3>
-J'ai obtenu mon titre de développeur Web et web mobile Fullstack, avec un focus sur PHP, Symfony. J'ai hâte d'appliquer mon expérience et mes connaissances à ma future carrière dans la technologie. Je continue à réaliser des projets perso afin de monter en compétences de manière autodidacte.
+---
 
-Au fur et à mesure que j'avance, je recherche activement un apprentissage dans le cadre d'un contrat en alternance dès que possible. Je prépare le diplôme de Concepteur développeur d'applications avec la Fabrique Numérique Paloise et je recherche donc une entreprise pour y travailler en alternance (Trois semaines en entreprise et une semaine en formation jusqu'à avril 2026). Je suis ravi de continuer à apprendre et à grandir en tant que développeur, et j'ai hâte de voir où ce voyage me mènera.
+## 📂 Quelques projets récents
+- **SmartPlanningAI** – SaaS de gestion de plannings avec IA intégrée et paiement en ligne
+- **Kocinaspeed** – Site de recettes rapide en Symfony avec espace administrateur
+- **LivreStaka** – Plateforme complète de consultation et facturation en ligne
 
-Merci d'avoir pris le temps de lire et n'hésitez pas à parcourir mes projets et contributions sur GitHub. Connectons-nous et collaborons pour réaliser de grandes choses !
+---
+
+💡 Toujours curieux, j’expérimente régulièrement de nouvelles technologies pour rester à jour et apporter des solutions innovantes à mes clients.
+
+📩 **Vous avez un projet ?** Contactez-moi et voyons comment le concrétiser ensemble.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophemostefaoui/)
+
