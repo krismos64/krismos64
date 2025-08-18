@@ -3,6 +3,8 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophemostefaoui/)
+[![Site Pro](https://img.shields.io/badge/Site%20Pro-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://christophe-dev-freelance.fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://krismos.fr/)
 
 <h1 align="center">Bienvenue sur mon profil GitHub 👋🏽</h1>
 
@@ -26,10 +28,10 @@ Mon objectif : **transformer les idées en solutions concrètes**, avec un code 
 
 ---
 
-
 💡 Toujours curieux, j’expérimente régulièrement de nouvelles technologies pour rester à jour et apporter des solutions innovantes à mes clients.
 
 📩 **Vous avez un projet ?** Contactez-moi et voyons comment le concrétiser ensemble.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christophemostefaoui/)
-
+[![Site Pro](https://img.shields.io/badge/Site%20Pro-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://christophe-dev-freelance.fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://krismos.fr/)
