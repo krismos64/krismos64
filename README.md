@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="350" src="profil-githuub.png" alt="Christophe Mostefaoui - Développeur Fullstack Next.js / React">
+  <img width="350" src="profil-github.png" alt="Christophe Mostefaoui - Développeur Fullstack Next.js / React">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 <h1 align="center">Christophe Mostefaoui — Développeur Fullstack Next.js / React</h1>
 
 <p align="center">
-  <strong>En recherche d'un CDI · Région Pau – Tarbes – Orthez</strong>
+  <strong>En recherche d'opportunité · Région Pau – Tarbes – Orthez</strong>
 </p>
 
 ---
@@ -65,20 +65,6 @@ J'ai conçu et déployé en autonomie **SmartPlanning**, une application SaaS de
 - **Infra** : VPS OVH · Ubuntu 24.04 · Nginx · SSL Let's Encrypt · CI/CD GitHub Actions
 - **Fonctionnalités clés** : authentification JWT, dashboards Manager/Director avec animations Framer Motion, notifications temps réel (SSE), upload d'avatars Cloudinary, gestion multi-entreprise
 - **Méthodologie** : Scrum (Jira, Confluence), +200 tickets gérés, sprints itératifs
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisMusic&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMusic&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
 
 ## Parcours
 
