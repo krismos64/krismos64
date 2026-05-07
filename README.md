@@ -9,7 +9,7 @@
 
 </div>
 
-<h1 align="center">Christophe Mostefaoui — Développeur Fullstack Next.js / React</h1>
+<h1 align="center">Christophe Mostefaoui : Développeur Fullstack Next.js / React</h1>
 
 <p align="center">
   <strong>En recherche d'opportunité · Région Pau – Tarbes – Orthez</strong>
