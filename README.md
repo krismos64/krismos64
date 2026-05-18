@@ -19,7 +19,7 @@
 
 ## À propos
 
-Développeur Fullstack spécialisé **Next.js / React / Node.js / TypeScript**, je finalise actuellement un titre **CDA (Concepteur Développeur d'Applications)** niveau bac+3/4 à La Fabrique Numérique Paloise.
+Développeur Fullstack spécialisé **Next.js / React / Node.js / TypeScript**, je viens d'obtenir le titre **CDA (Concepteur Développeur d'Applications)** niveau bac+3/4 à La Fabrique Numérique Paloise.
 
 J'ai conçu et déployé en autonomie **SmartPlanning**, une application SaaS de gestion de planning d'équipe, de l'architecture à la mise en production sur VPS, en appliquant une méthodologie **Agile/Scrum** rigoureuse (Jira, Confluence, sprints itératifs).
 
