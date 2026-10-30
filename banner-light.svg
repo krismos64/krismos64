@@ -58,11 +58,11 @@
   <!-- Statut -->
   <rect class="pill" x="1004" y="50" width="204" height="38" rx="19"/>
   <circle class="live" cx="1026" cy="69" r="5.5"/>
-  <text class="sans pilltxt" x="1040" y="74">Pau · Tarbes · Orthez</text>
+  <text class="sans pilltxt" x="1040" y="74">Pau - Tarbes - Orthez</text>
 
   <!-- Identité -->
   <text class="sans name rise r1" x="70" y="160">Christophe Mostefaoui</text>
-  <text class="sans role rise r2" x="72" y="200">Développeur Fullstack · Next.js · TypeScript · Node.js</text>
+  <text class="sans role rise r2" x="72" y="200">Développeur Fullstack - Next.js - TypeScript - Node.js</text>
   <text class="sans pitch rise r3" x="72" y="236">Du besoin métier <tspan>à la mise en production</tspan></text>
 
   <!-- Pipeline -->
@@ -80,13 +80,13 @@
       <circle class="dot" cx="328" cy="312" r="15"/>
       <path class="chk" d="M322 312 l4.5 4.5 l8 -9" />
       <text class="lbl" x="328" y="356" text-anchor="middle">lint</text>
-      <text class="cap" x="328" y="378" text-anchor="middle">ESLint · tsc</text>
+      <text class="cap" x="328" y="378" text-anchor="middle">ESLint - tsc</text>
     </g>
     <g class="s2">
       <circle class="dot" cx="536" cy="312" r="15"/>
       <path class="chk" d="M530 312 l4.5 4.5 l8 -9" />
       <text class="lbl" x="536" y="356" text-anchor="middle">tests</text>
-      <text class="cap" x="536" y="378" text-anchor="middle">Vitest · Playwright</text>
+      <text class="cap" x="536" y="378" text-anchor="middle">Vitest - Playwright</text>
     </g>
     <g class="s3">
       <circle class="dot" cx="744" cy="312" r="15"/>

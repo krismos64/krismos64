@@ -13,7 +13,7 @@
 
 ## À propos
 
-Développeur fullstack **Next.js · TypeScript · Node.js**, titulaire du titre **CDA spécialité IA** (Concepteur Développeur d'Applications, bac+3) obtenu à La Fabrique Numérique Paloise.
+Développeur fullstack **Next.js - TypeScript - Node.js**, titulaire du titre **CDA spécialité IA** (Concepteur Développeur d'Applications, bac+3) obtenu à La Fabrique Numérique Paloise.
 
 Avant le développement, j'ai passé 12 ans en grande distribution et, en parallèle, 10 ans dans la gestion administrative de l'entreprise familiale, où j'ai automatisé la facturation sous Excel. Je sais ce qu'un logiciel change au quotidien pour ceux qui l'utilisent.
 
@@ -30,7 +30,7 @@ Je conçois, développe et exploite mes applications seul, du recueil du besoin 
   </picture>
 </a>
 
-[smartplanning.fr](https://smartplanning.fr) · [Code source](https://github.com/krismos64/SmartplanningAI-V2)
+[smartplanning.fr](https://smartplanning.fr) - [Code source](https://github.com/krismos64/SmartplanningAI-V2)
 
 SaaS multi-entreprise de gestion des plannings et des congés d'équipe, en production.
 
@@ -47,7 +47,7 @@ SaaS multi-entreprise de gestion des plannings et des congés d'équipe, en prod
   </picture>
 </a>
 
-[lune-soleil.fr](https://lune-soleil.fr) · [Code source](https://github.com/krismos64/lune-soleil)
+[lune-soleil.fr](https://lune-soleil.fr) - [Code source](https://github.com/krismos64/lune-soleil)
 
 Boutique e-commerce sur mesure pour une créatrice de bijoux artisanaux du Béarn : catalogue, paiement, stock partagé entre le site et les marchés, facturation, expédition.
 
@@ -94,7 +94,7 @@ Boutique e-commerce sur mesure pour une créatrice de bijoux artisanaux du Béar
 
 ## Parcours
 
-- **CDA spécialité IA** (Concepteur Développeur d'Applications, bac+3) · La Fabrique Numérique Paloise · 2024 – 2026
-- **DWWM** (Développeur Web et Web Mobile, bac+2) · Studi · 2022 – 2023
+- **CDA spécialité IA** (Concepteur Développeur d'Applications, bac+3) - La Fabrique Numérique Paloise - 2024 – 2026
+- **DWWM** (Développeur Web et Web Mobile, bac+2) - Studi - 2022 – 2023
 - **Avant le développement** : 12 ans en grande distribution et, en parallèle, 10 ans de gestion administrative dans l'entreprise familiale
 
