@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-labelledby="t d">
+  <title id="t">SmartPlanning, aperçu animé</title>
+  <desc id="d">Un planning de semaine se remplit de créneaux par équipe, une demande de congé passe de en attente à validé, puis des notifications temps réel apparaissent.</desc>
+  <style>
+    .day{fill:#59636e;font:600 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+    .sep{stroke:#eaeef2;stroke-width:1}
+    .ph{fill:#e6eaef}
+    .ttl{fill:#59636e;font:15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+    .lt{fill:#1f2328;font:600 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+    .ok{fill:#ffffff;font:600 12.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+    .nh{fill:#1f2328;font:600 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+    .ns{fill:#59636e;font:13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+    .sh{animation:grow .45s cubic-bezier(.2,.8,.2,1) backwards;transform-box:fill-box;transform-origin:left center}
+    .leave{animation:rise .5s ease-out 1.25s backwards}
+    .pend{opacity:0;animation:out 2.6s linear backwards}
+    .nt{animation:slide .55s cubic-bezier(.2,.8,.2,1) backwards}
+    .live{animation:breathe 2.4s ease-in-out 3.8s infinite}
+    
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @keyframes slide{from{opacity:0;transform:translateX(28px)}to{opacity:1;transform:none}}
+    @keyframes grow{from{opacity:0;transform:scaleX(.2)}to{opacity:1;transform:none}}
+    @keyframes pop{0%{opacity:0;transform:scale(.4)}70%{opacity:1;transform:scale(1.12)}100%{opacity:1;transform:none}}
+    @keyframes out{0%,90%{opacity:1}100%{opacity:0}}
+    @keyframes breathe{0%,100%{opacity:1}50%{opacity:.35}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+  </style>
+  <rect x="1" y="1" width="1278" height="338" rx="20" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="40" y="24" width="820" height="292" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <circle cx="64" cy="48" r="5" fill="#e6eaef"/><circle cx="80" cy="48" r="5" fill="#e6eaef"/><circle cx="96" cy="48" r="5" fill="#e6eaef"/>
+  <text class="ttl" x="120" y="53">Planning · Semaine</text>
+  <text class="day" x="282" y="92" text-anchor="middle">Lun</text><text class="day" x="406" y="92" text-anchor="middle">Mar</text><text class="day" x="530" y="92" text-anchor="middle">Mer</text><text class="day" x="654" y="92" text-anchor="middle">Jeu</text><text class="day" x="778" y="92" text-anchor="middle">Ven</text><line class="sep" x1="60" y1="165" x2="840" y2="165"/><circle class="ph" cx="82" cy="135" r="14"/><rect class="ph" x="106" y="130" width="86" height="10" rx="5"/><line class="sep" x1="60" y1="225" x2="840" y2="225"/><circle class="ph" cx="82" cy="195" r="14"/><rect class="ph" x="106" y="190" width="86" height="10" rx="5"/><line class="sep" x1="60" y1="285" x2="840" y2="285"/><circle class="ph" cx="82" cy="255" r="14"/><rect class="ph" x="106" y="250" width="86" height="10" rx="5"/><g class="sh" style="animation-delay:0.35s"><rect x="228" y="117" width="108" height="36" rx="8" fill="#0969da26" stroke="#0969da" stroke-width="1.5"/><rect x="240" y="130" width="52" height="10" rx="5" fill="#0969da" opacity=".55"/></g><g class="sh" style="animation-delay:0.44s"><rect x="352" y="117" width="108" height="36" rx="8" fill="#0969da26" stroke="#0969da" stroke-width="1.5"/><rect x="364" y="130" width="52" height="10" rx="5" fill="#0969da" opacity=".55"/></g><g class="sh" style="animation-delay:0.53s"><rect x="476" y="117" width="108" height="36" rx="8" fill="#0969da26" stroke="#0969da" stroke-width="1.5"/><rect x="488" y="130" width="52" height="10" rx="5" fill="#0969da" opacity=".55"/></g><g class="sh" style="animation-delay:0.62s"><rect x="724" y="117" width="108" height="36" rx="8" fill="#0969da26" stroke="#0969da" stroke-width="1.5"/><rect x="736" y="130" width="52" height="10" rx="5" fill="#0969da" opacity=".55"/></g><g class="sh" style="animation-delay:0.71s"><rect x="228" y="177" width="108" height="36" rx="8" fill="#8250df26" stroke="#8250df" stroke-width="1.5"/><rect x="240" y="190" width="52" height="10" rx="5" fill="#8250df" opacity=".55"/></g><g class="sh" style="animation-delay:0.80s"><rect x="476" y="177" width="108" height="36" rx="8" fill="#8250df26" stroke="#8250df" stroke-width="1.5"/><rect x="488" y="190" width="52" height="10" rx="5" fill="#8250df" opacity=".55"/></g><g class="sh" style="animation-delay:0.89s"><rect x="600" y="177" width="108" height="36" rx="8" fill="#8250df26" stroke="#8250df" stroke-width="1.5"/><rect x="612" y="190" width="52" height="10" rx="5" fill="#8250df" opacity=".55"/></g><g class="sh" style="animation-delay:0.98s"><rect x="724" y="177" width="108" height="36" rx="8" fill="#8250df26" stroke="#8250df" stroke-width="1.5"/><rect x="736" y="190" width="52" height="10" rx="5" fill="#8250df" opacity=".55"/></g><g class="sh" style="animation-delay:1.07s"><rect x="228" y="237" width="108" height="36" rx="8" fill="#1a7f3726" stroke="#1a7f37" stroke-width="1.5"/><rect x="240" y="250" width="52" height="10" rx="5" fill="#1a7f37" opacity=".55"/></g><g class="sh" style="animation-delay:1.16s"><rect x="352" y="237" width="108" height="36" rx="8" fill="#1a7f3726" stroke="#1a7f37" stroke-width="1.5"/><rect x="364" y="250" width="52" height="10" rx="5" fill="#1a7f37" opacity=".55"/></g><g class="leave">
+      <rect x="600" y="237" width="232" height="36" rx="8" fill="#1a7f3726" stroke="#1a7f37" stroke-width="1.5"/>
+      <rect class="pend" x="600" y="237" width="232" height="36" rx="8" fill="#f6f8fa" stroke="#9a6700" stroke-width="1.5" stroke-dasharray="6 5"/>
+      <text class="lt" x="616" y="260">Congé</text>
+      <rect x="724" y="244" width="96" height="22" rx="11" fill="#1a7f37"/>
+      <text class="ok" x="772" y="259" text-anchor="middle">Validé</text>
+      <g class="pend"><rect x="724" y="244" width="96" height="22" rx="11" fill="#9a6700"/>
+      <text class="ok" x="772" y="259" text-anchor="middle">En attente</text></g>
+    </g><g class="nt" style="animation-delay:1.7s">
+      <rect x="890" y="40" width="350" height="76" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <circle cx="926" cy="78" r="17" fill="#0969da26"/>
+      <path d="M918 78 l5.5 5.5 l10 -11" fill="none" stroke="#0969da" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="nh" x="956" y="73">Planning publié</text>
+      <text class="ns" x="956" y="95">Toute l'équipe est notifiée</text></g><g class="nt" style="animation-delay:2.75s">
+      <rect x="890" y="132" width="350" height="76" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <circle cx="926" cy="170" r="17" fill="#1a7f3726"/>
+      <path d="M918 170 l5.5 5.5 l10 -11" fill="none" stroke="#1a7f37" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="nh" x="956" y="165">Congé validé</text>
+      <text class="ns" x="956" y="187">Notification en temps réel</text></g><g class="nt" style="animation-delay:3.2s">
+      <rect x="890" y="224" width="350" height="76" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+      <circle cx="926" cy="262" r="17" fill="#8250df26"/>
+      <path d="M918 262 l5.5 5.5 l10 -11" fill="none" stroke="#8250df" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="nh" x="956" y="257">Nouveau message</text>
+      <text class="ns" x="956" y="279">Messagerie d'équipe</text></g><circle class="live" cx="1226" cy="52" r="5" fill="#1a7f37"/>
+</svg>

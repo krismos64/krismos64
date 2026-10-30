@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Lune-soleil, aperçu animé</title>
+  <desc id="d">Le parcours d'achat de la boutique : fiche produit d'une pièce unique, panier avec stock réservé, paiement confirmé par webhook signé, facture PDF immuable, puis expédition avec suivi. Chaque étape se valide tour à tour.</desc>
+  <style>
+    .lb{fill:#e6edf3;font:600 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+    .sb{fill:#8b949e;font:13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+    .track{stroke:#30363d;stroke-width:3;stroke-dasharray:2 7;stroke-linecap:round}
+    .prog{stroke:#3fb950;stroke-width:3;stroke-linecap:round;stroke-dasharray:1008;stroke-dashoffset:0;animation:draw 2.4s cubic-bezier(.45,.05,.55,.95) 1.5s backwards}
+    .packet{fill:#3fb950;opacity:0;animation:travel 2.4s cubic-bezier(.45,.05,.55,.95) 1.5s backwards}
+    .moon{fill:#d29922}
+    @keyframes draw{from{stroke-dashoffset:1008}to{stroke-dashoffset:0}}
+    @keyframes travel{0%{opacity:1;transform:none}94%{opacity:1}100%{opacity:0;transform:translateX(1008px)}}
+    @keyframes edge{from{opacity:0}to{opacity:1}}
+    .c0{animation:rise .5s ease-out 0.15s backwards}.c0 .edge{animation:edge .35s ease-out 1.50s backwards}.c0 .badge{animation:pop .4s ease-out 1.55s backwards}.c1{animation:rise .5s ease-out 0.27s backwards}.c1 .edge{animation:edge .35s ease-out 2.10s backwards}.c1 .badge{animation:pop .4s ease-out 2.15s backwards}.c2{animation:rise .5s ease-out 0.39s backwards}.c2 .edge{animation:edge .35s ease-out 2.70s backwards}.c2 .badge{animation:pop .4s ease-out 2.75s backwards}.c3{animation:rise .5s ease-out 0.51s backwards}.c3 .edge{animation:edge .35s ease-out 3.30s backwards}.c3 .badge{animation:pop .4s ease-out 3.35s backwards}.c4{animation:rise .5s ease-out 0.63s backwards}.c4 .edge{animation:edge .35s ease-out 3.90s backwards}.c4 .badge{animation:pop .4s ease-out 3.95s backwards}
+    
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @keyframes slide{from{opacity:0;transform:translateX(28px)}to{opacity:1;transform:none}}
+    @keyframes grow{from{opacity:0;transform:scaleX(.2)}to{opacity:1;transform:none}}
+    @keyframes pop{0%{opacity:0;transform:scale(.4)}70%{opacity:1;transform:scale(1.12)}100%{opacity:1;transform:none}}
+    @keyframes out{0%,90%{opacity:1}100%{opacity:0}}
+    @keyframes breathe{0%,100%{opacity:1}50%{opacity:.35}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+  </style>
+  <rect x="1" y="1" width="1278" height="318" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <line class="track" x1="136.0" y1="132" x2="1144.0" y2="132"/>
+  <line class="prog" x1="136.0" y1="132" x2="1144.0" y2="132"/>
+  <circle class="packet" cx="136.0" cy="132" r="7"/>
+  <g class="c0">
+      <rect x="36.0" y="36" width="200" height="236" rx="16" fill="#161b22"/>
+      <rect class="edge" x="36.0" y="36" width="200" height="236" rx="16" fill="none" stroke="#3fb950" stroke-width="2"/>
+      <circle cx="136.0" cy="102" r="6" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><line x1="136.0" y1="108" x2="136.0" y2="120" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M142.0 122 a20 20 0 1 0 12 30 a16 16 0 1 1 -12 -30z" fill="#d29922"/>
+      <text class="lb" x="136.0" y="212" text-anchor="middle">Fiche produit</text>
+      <text class="sb" x="136.0" y="238" text-anchor="middle">Pièce unique</text>
+      <g class="badge" style="transform-box:fill-box;transform-origin:center"><circle cx="214.0" cy="58" r="12" fill="#3fb950"/>
+      <path d="M209.0 58 l3.5 3.5 l6.5 -7" fill="none" stroke="#0d1117" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    </g><g class="c1">
+      <rect x="288.0" y="36" width="200" height="236" rx="16" fill="#161b22"/>
+      <rect class="edge" x="288.0" y="36" width="200" height="236" rx="16" fill="none" stroke="#3fb950" stroke-width="2"/>
+      <path d="M354.0 110 h10 l8 32 h34 l7 -24 h-46" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="378.0" cy="152" r="4" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="404.0" cy="152" r="4" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="lb" x="388.0" y="212" text-anchor="middle">Panier</text>
+      <text class="sb" x="388.0" y="238" text-anchor="middle">Stock réservé</text>
+      <g class="badge" style="transform-box:fill-box;transform-origin:center"><circle cx="466.0" cy="58" r="12" fill="#3fb950"/>
+      <path d="M461.0 58 l3.5 3.5 l6.5 -7" fill="none" stroke="#0d1117" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    </g><g class="c2">
+      <rect x="540.0" y="36" width="200" height="236" rx="16" fill="#161b22"/>
+      <rect class="edge" x="540.0" y="36" width="200" height="236" rx="16" fill="none" stroke="#3fb950" stroke-width="2"/>
+      <rect x="610.0" y="112" width="60" height="40" rx="6" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><line x1="610.0" y1="124" x2="670.0" y2="124" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><line x1="620.0" y1="140" x2="636.0" y2="140" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="lb" x="640.0" y="212" text-anchor="middle">Paiement</text>
+      <text class="sb" x="640.0" y="238" text-anchor="middle">Webhook signé</text>
+      <g class="badge" style="transform-box:fill-box;transform-origin:center"><circle cx="718.0" cy="58" r="12" fill="#3fb950"/>
+      <path d="M713.0 58 l3.5 3.5 l6.5 -7" fill="none" stroke="#0d1117" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    </g><g class="c3">
+      <rect x="792.0" y="36" width="200" height="236" rx="16" fill="#161b22"/>
+      <rect class="edge" x="792.0" y="36" width="200" height="236" rx="16" fill="none" stroke="#3fb950" stroke-width="2"/>
+      <path d="M872.0 104 h28 l12 12 v44 h-40z" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M900.0 104 v12 h12" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><line x1="881.0" y1="130" x2="903.0" y2="130" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><line x1="881.0" y1="141" x2="903.0" y2="141" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="lb" x="892.0" y="212" text-anchor="middle">Facture</text>
+      <text class="sb" x="892.0" y="238" text-anchor="middle">PDF immuable</text>
+      <g class="badge" style="transform-box:fill-box;transform-origin:center"><circle cx="970.0" cy="58" r="12" fill="#3fb950"/>
+      <path d="M965.0 58 l3.5 3.5 l6.5 -7" fill="none" stroke="#0d1117" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    </g><g class="c4">
+      <rect x="1044.0" y="36" width="200" height="236" rx="16" fill="#161b22"/>
+      <rect class="edge" x="1044.0" y="36" width="200" height="236" rx="16" fill="none" stroke="#3fb950" stroke-width="2"/>
+      <path d="M1118.0 122 l26 -14 l26 14 v30 l-26 14 l-26 -14z" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M1118.0 122 l26 14 l26 -14 M1144.0 136 v30" stroke="#e6edf3" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="lb" x="1144.0" y="212" text-anchor="middle">Expédition</text>
+      <text class="sb" x="1144.0" y="238" text-anchor="middle">Colis suivi</text>
+      <g class="badge" style="transform-box:fill-box;transform-origin:center"><circle cx="1222.0" cy="58" r="12" fill="#3fb950"/>
+      <path d="M1217.0 58 l3.5 3.5 l6.5 -7" fill="none" stroke="#0d1117" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    </g>
+</svg>
