@@ -34,7 +34,6 @@ Je conçois, développe et exploite mes applications seul, du recueil du besoin 
 
 SaaS multi-entreprise de gestion des plannings et des congés d'équipe, en production.
 
-- **Stack** : Next.js · React · TypeScript · PostgreSQL · Prisma · Redis · Stripe
 - **Fonctionnel** : rôles direction, manager et employé, planning en glisser-déposer, workflow de congés, messagerie et notifications temps réel (SSE), abonnement Stripe par employé
 - **Sécurité** : contrôle d'accès par rôle, isolation stricte entre entreprises, validation Zod, limitation de débit sur Redis
 - **Production** : CI/CD GitHub Actions vers Docker sur VPS OVH, retour arrière automatique si le contrôle de santé échoue, sauvegardes chiffrées copiées hors site
@@ -52,7 +51,6 @@ SaaS multi-entreprise de gestion des plannings et des congés d'équipe, en prod
 
 Boutique e-commerce sur mesure pour une créatrice de bijoux artisanaux du Béarn : catalogue, paiement, stock partagé entre le site et les marchés, facturation, expédition.
 
-- **Stack** : Next.js · TypeScript strict · PostgreSQL · Prisma · Better Auth (passkeys) · Stripe
 - **Paiement fiable** : réservation atomique des pièces uniques, webhooks signés et idempotents, montants en centimes, factures immuables
 - **Usage réel** : back-office conçu pour le smartphone, utilisable sur les marchés
 - **Conformité** : droit de rétractation, médiation de la consommation, RGPD
