@@ -52,6 +52,7 @@ SaaS multi-entreprise de gestion des plannings et des congés d'équipe, en prod
 Boutique e-commerce sur mesure pour une créatrice de bijoux artisanaux du Béarn : catalogue, paiement, stock partagé entre le site et les marchés, facturation, expédition.
 
 - **Paiement fiable** : réservation atomique des pièces uniques, webhooks signés et idempotents, montants en centimes, factures immuables
+- **Sécurité** : connexion par passkey (Better Auth), réauthentification sur les actions sensibles
 - **Usage réel** : back-office conçu pour le smartphone, utilisable sur les marchés
 - **Conformité** : droit de rétractation, médiation de la consommation, RGPD
 
