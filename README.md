@@ -1,6 +1,7 @@
-<div align="center">
-  <img width="350" src="profil-github.png" alt="Christophe Mostefaoui - Développeur Fullstack Next.js / React">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" width="100%" alt="Christophe Mostefaoui, développeur fullstack Next.js et TypeScript. Du besoin métier à la mise en production. Pau, Tarbes, Orthez.">
+</picture>
 
 <div align="center">
 
